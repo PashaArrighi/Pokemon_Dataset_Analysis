@@ -4,7 +4,7 @@ This project explores the use of **machine learning classification** models to a
 
 ---
 
-### 📘 Project Overview
+### Project Overview
 
 This notebook covers two main predictive tasks:
 
@@ -18,20 +18,20 @@ This notebook covers two main predictive tasks:
 
 ---
 
-### 🧠 Skills Demonstrated
+### Skills Demonstrated
 
-- 🔍 **Exploratory Data Analysis**
-- 🧼 **Data Cleaning & Feature Selection**
-- 🔢 **Encoding Categorical Variables**
-- 🤖 **Supervised Machine Learning**
+- **Exploratory Data Analysis**
+- **Data Cleaning & Feature Selection**
+- **Encoding Categorical Variables**
+- **Supervised Machine Learning**
   - Logistic Regression
   - K-Nearest Neighbors (KNN)
-- 📊 **Model Evaluation**
+- **Model Evaluation**
   - Accuracy, Confusion Matrix, and more
 
 ---
 
-### 🧰 Tools & Technologies
+### Tools & Technologies
 
 - **Python**: pandas, NumPy, scikit-learn
 - **Jupyter Notebook**
@@ -39,7 +39,7 @@ This notebook covers two main predictive tasks:
 
 ---
 
-### 📂 Dataset Description
+### Dataset Description
 
 - Source: [Kaggle – Pokémon with Stats](https://www.kaggle.com/datasets/abcsds/pokemon)
 - Features:
@@ -50,7 +50,7 @@ This notebook covers two main predictive tasks:
 
 ---
 
-### 🧪 Project Flow
+### Project Flow
 
 1. Data Cleaning & Inspection  
 2. Encoding categorical features (e.g., Pokémon types)  
